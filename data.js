@@ -22,7 +22,7 @@ export default [
     title: "Toxicity",
     artist: "System of a Down",
     cover: "system.jpg",
-    file: "toxicity-System-of-down.mp3"
+    file: "toxicity-system-of-down.mp3"
   },
   {
     title: "Shiva Style original mix",
