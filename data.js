@@ -19,12 +19,6 @@ export default [
     file: "Red-Hot-Chili-Peppers-Around-The-World.mp3"
   },
   {
-    title: "Toxicity",
-    artist: "System of a Down",
-    cover: "system.jpg",
-    file: "toxicity-system-of-down.mp3"
-  },
-  {
     title: "Shiva Style original mix",
     artist: "Mandragora",
     cover: "shiva.jpg",
